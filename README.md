@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @its-zebi009
 - 👀 I’m interested in Ethical Hacking 
 - 🌱 I’m currently learning Languages & Ethical Hacking 
-- 💞️ I’m looking to collaborate on Ethical hacker partner 
+- 💞️ I’m looking to collaborate with Ethical hacker partner 
 - 📫 How to reach me 
 - 😄 Pronouns:He
 - ⚡ Fun fact: ...
